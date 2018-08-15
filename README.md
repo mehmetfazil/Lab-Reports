@@ -1,7 +1,7 @@
 
 # Lab-Reports
 
-## CE2005 Operating Systems
+## Nanyang Technological University - CE2005 Operating Systems
 
 ### Experiment 3 - Virtual Memory
 
